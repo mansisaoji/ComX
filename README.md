@@ -153,7 +153,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🙌 Acknowledgements
-
-Built with ❤️ by [Pratham Jain](https://github.com/PrathamJain2601)
 Designed to boost productivity through simplicity.
